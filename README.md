@@ -1,7 +1,7 @@
 # Dronista Mantova — sito web
 
 Sito statico a una pagina, ottimizzato per la SEO sulla keyword **"dronista mantova"**.
-
+f
 ## Struttura del progetto
 
 ```
